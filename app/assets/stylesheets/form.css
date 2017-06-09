@@ -1,0 +1,27 @@
+.form-group{
+	width: 140px;
+}
+
+.form-inline{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.babies{
+	margin-right: 25px;
+}
+
+.assistants{
+	margin-right: 70px;
+}
+
+.filtrar{
+	cursor: pointer;
+	margin-bottom: 15px;
+	margin-top: 39px;
+    margin-left: 50px;	
+}
+
+.limpiar{
+	cursor: pointer;
+}
